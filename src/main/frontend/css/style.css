@@ -2,12 +2,12 @@ body{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    background-color: rgb(170, 169, 169);
+    background-color: whitesmoke;
+    align-content: center;
 }
 
 .row{
     background-color: whitesmoke;
-    border-radius: 30px;
 }
 
 img{
@@ -18,7 +18,7 @@ img{
     border: none;
     outline: none;
     height: 50px;
-    width: 30%;
+    width: 25%;
     background-color: black;
     color: whitesmoke;
     border-radius: 4px;

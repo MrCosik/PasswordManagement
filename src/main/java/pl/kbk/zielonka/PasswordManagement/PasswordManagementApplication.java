@@ -10,5 +10,4 @@ public class PasswordManagementApplication {
 		SpringApplication.run(PasswordManagementApplication.class, args);
 
 	}
-
 }
