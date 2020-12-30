@@ -9,9 +9,6 @@ public class PasswordManagementApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(PasswordManagementApplication.class, args);
 
-
-
-		//test
 	}
 
 }
