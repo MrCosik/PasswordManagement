@@ -1,0 +1,32 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: rgb(170, 169, 169);
+}
+
+.row{
+    background-color: whitesmoke;
+    border-radius: 30px;
+}
+
+img{
+   
+}
+
+.btn_login{
+    border: none;
+    outline: none;
+    height: 50px;
+    width: 30%;
+    background-color: black;
+    color: whitesmoke;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.btn_login:hover{
+    background-color: whitesmoke;
+    border: 1px solid;
+    color: black;
+}
